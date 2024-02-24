@@ -7,7 +7,7 @@
 2. **AWS Lambda関数**: S3バケットからコードを読み込み、実行するLambda関数。
 3. **Amazon SNSトピック**: Lambda関数をトリガーするためのSNSトピック。
 
-CloudFormationテンプレートの例は以下のとおりです：
+CloudFormation：
 
 ```yaml
 AWSTemplateFormatVersion: '2010-09-09'
